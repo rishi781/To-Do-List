@@ -4,61 +4,61 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript. This 
 
 # **Features**
 
-Add new tasks.
+- Add new tasks.
 
-Edit existing tasks.
+- Edit existing tasks.
 
-Delete tasks.
+- Delete tasks.
 
-Responsive design for different screen sizes.
+- Responsive design for different screen sizes.
 
-Hover effects for buttons.
+- Hover effects for buttons.
 
 # **Technologies Used**
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-JavaScript
+- JavaScript
 
 # **How to Run the Project in VS Code**
 
 ## 1. Prerequisites
 
-Install Visual Studio Code (VS Code) if you haven’t already. Download VS Code
+- Install Visual Studio Code (VS Code) if you haven’t already. Download VS Code
 
-Install a live server extension for VS Code (optional but recommended for better experience).
+- Install a live server extension for VS Code (optional but recommended for better experience).
 
 ## 2. Steps to Run
 
-Clone or Download the Project
+### 1. Clone or Download the Project
 
-Clone the repository (if using Git):
+- Clone the repository (if using Git):
 
 git clone https://github.com/yourusername/todo-list-app.git
 
-Or manually download and extract the ZIP file.
+- Or manually download and extract the ZIP file.
 
-Open the Project in VS Code
+### 2. Open the Project in VS Code
 
-Open VS Code.
+- Open VS Code.
 
-Click on File > Open Folder and select the project folder.
+- Click on File > Open Folder and select the project folder.
 
-Run the Project
+### 3. Run the Project
 
-Open index.html in VS Code.
+- Open index.html in VS Code.
 
-Right-click anywhere in the file and select Open with Live Server (if you have Live Server installed).
+- Right-click anywhere in the file and select Open with Live Server (if you have Live Server installed).
 
-If you don’t have Live Server, open the index.html file manually in a web browser.
+- If you don’t have Live Server, open the index.html file manually in a web browser.
 
 ## 3. Editing and Customization
 
-Modify the style section in index.html to change the appearance.
+- Modify the style section in index.html to change the appearance.
 
-Update the JavaScript functions to enhance functionality.
+- Update the JavaScript functions to enhance functionality.
 
 # **License**
 
