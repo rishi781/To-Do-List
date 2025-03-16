@@ -2,7 +2,7 @@
 
 A simple To-Do List web application built using HTML, CSS, and JavaScript. This project allows users to add, edit, and delete tasks dynamically.
 
-Features
+# **Features**
 
 Add new tasks.
 
@@ -14,7 +14,7 @@ Responsive design for different screen sizes.
 
 Hover effects for buttons.
 
-Technologies Used
+# **Technologies Used**
 
 HTML
 
@@ -22,15 +22,15 @@ CSS
 
 JavaScript
 
-How to Run the Project in VS Code
+# **How to Run the Project in VS Code**
 
-1. Prerequisites
+##1. Prerequisites
 
 Install Visual Studio Code (VS Code) if you haven’t already. Download VS Code
 
 Install a live server extension for VS Code (optional but recommended for better experience).
 
-2. Steps to Run
+##2. Steps to Run
 
 Clone or Download the Project
 
@@ -54,21 +54,17 @@ Right-click anywhere in the file and select Open with Live Server (if you have L
 
 If you don’t have Live Server, open the index.html file manually in a web browser.
 
-3. Editing and Customization
+##3. Editing and Customization
 
 Modify the style section in index.html to change the appearance.
 
 Update the JavaScript functions to enhance functionality.
 
-Screenshots
-
-(Add screenshots here if needed)
-
-License
+# **License**
 
 This project is open-source and free to use for learning purposes.
 
-Author
+# **Author**
 
 Your Name
 
