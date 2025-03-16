@@ -36,7 +36,7 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript. This 
 
 - Clone the repository (if using Git):
 
-git clone https://github.com/yourusername/todo-list-app.git
+    git clone https://github.com/yourusername/todo-list-app.git
 
 - Or manually download and extract the ZIP file.
 
@@ -60,13 +60,5 @@ git clone https://github.com/yourusername/todo-list-app.git
 
 - Update the JavaScript functions to enhance functionality.
 
-# **License**
 
-This project is open-source and free to use for learning purposes.
-
-# **Author**
-
-Your Name
-
-GitHub: yourusername
 
