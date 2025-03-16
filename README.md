@@ -24,13 +24,13 @@ JavaScript
 
 # **How to Run the Project in VS Code**
 
-##1. Prerequisites
+## 1. Prerequisites
 
 Install Visual Studio Code (VS Code) if you haven’t already. Download VS Code
 
 Install a live server extension for VS Code (optional but recommended for better experience).
 
-##2. Steps to Run
+## 2. Steps to Run
 
 Clone or Download the Project
 
@@ -54,7 +54,7 @@ Right-click anywhere in the file and select Open with Live Server (if you have L
 
 If you don’t have Live Server, open the index.html file manually in a web browser.
 
-##3. Editing and Customization
+## 3. Editing and Customization
 
 Modify the style section in index.html to change the appearance.
 
